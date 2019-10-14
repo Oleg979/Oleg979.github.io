@@ -480,8 +480,7 @@ body{
 }
 
 @media screen and (max-width: 750px) {
-#profile div {
-    font-weight: bold;
-    margin: 0 auto;
+#profile_img {
+   display:none;
 }
 }
